@@ -1,0 +1,1 @@
+{"filters_1": 96, "filters_2": 256, "filters_3": 256, "filters_4": 512, "dense_units": 128, "bottleneck_size": 100, "learning_rate": 0.0001, "dropout_rate": 0.30000000000000004}
